@@ -8,7 +8,7 @@ Esse GitHub Finder foi feito a partir do curso do youtuber [Matheus Battisti - H
 
 <h3>Para rodar o projeto: </h3>
 
-* cd .\apigithub\
+* cd .\ApiGitHub\
 * npm install
 * npm run dev
 
